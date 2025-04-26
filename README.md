@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Syed Imad Ahmed.
+
+Im a full stack web and cloud developer. Currently working with Azure to further my cloud knowledge and expertise. Experienced with cloud native, serverless functions, infrastructure as code, and more.
+
+## Technologies I work with:
+- JavaScript
+- React
+- Node.js
+- Express
+- Azure
+- MongoDB
+- Cosmos DB
+- Azure SQL DB
+- Azure Storage Accounts
+- Git
+- GitHub
+- Postman
+- VirtualBox
+
+## Learn more:
+- [Portfolio](https://syedimadahmed.com)
+- [LinkedIn](https://linkedin.com/in/syed-imad-ahmed)
+
+
 
 <!--
 **imadahmed101/imadahmed101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

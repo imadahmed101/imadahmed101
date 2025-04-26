@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Syed Imad Ahmed.
 
-Im a full stack web and cloud developer. Currently working with Azure to further my cloud knowledge and expertise. Experienced with cloud native, serverless functions, infrastructure as code, and more.
+Im a full stack web and cloud developer. Currently working with Azure to further my cloud knowledge and expertise. Experienced with [cloud native](https://github.com/imadahmed101/student-portal-azure-cloudnative), [serverless functions](https://github.com/imadahmed101/workout-tracker-azure-serverless), [infrastructure as code](https://github.com/imadahmed101/webapp-iac-azure-bicep), and more.
 
 ## Technologies I work with:
 - JavaScript
